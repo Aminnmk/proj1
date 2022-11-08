@@ -1,0 +1,98 @@
+/*
+Name:Seyedmohammadamin Mirabdolvahabi
+Student Number: 8821160
+*/
+body{
+	
+	color: #E5E8E8;
+	background-image: linear-gradient(#2C3E50, #73C6B6);
+	width: 1000px;
+	border: 20px #73C6B6;
+	margin: 30px auto;
+	padding: 0px;
+	border-style: solid;
+
+}
+a {
+	color: #eb1b24;
+	
+}
+
+header{
+	background:white;
+}
+
+h1{
+	
+	padding:30px;
+	
+	float: left;
+	color: #E5E8E8;
+	font-family: serif;
+	
+}
+.image1{
+	width:140px;
+	padding:20px;
+	float: right;
+	padding-left: 20px;
+}
+
+nav{
+	
+	clear:both;
+	background: #73C6B6;
+	padding: 30px 0;
+	text-align: center;
+}
+
+nav a{
+	font-size: 20px;
+	font-weight: bold;
+	color: #424949;
+	text-decoration: none;
+	padding: 0 30px;
+}
+ 
+main{
+	
+	padding-left:26px;
+	padding-bottom:26px;
+	padding-top:26px;
+	background: #4a1c26;
+}
+
+ aside {
+    width: 23%;
+    padding-left: 15px;
+	padding-right: 0px;
+	padding-bottom: 196px;
+    margin-right: 0px;
+    float: right;
+	line-height: 1;
+	font-size: 25px;
+    color: #EAF2F8;
+	background-image: linear-gradient(#2C3E50, #73C6B6, #76448A );
+}
+
+
+
+footer{
+	float: center;
+	 text-align: center;
+	 font-weight: bold;
+	 background-color: #73C6B6;
+	 padding: 20px;
+	 color: #424949;
+ }
+ .image2{
+
+	float: center;
+	display: block;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	width:1000px;
+	
+}
